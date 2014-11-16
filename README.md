@@ -2,4 +2,4 @@
 hello git
 
 ギットヘル
-from update-readme
+from update-readme2
